@@ -3,4 +3,4 @@ numpy==2.1.1
 scikit-learn==1.5.2
 tensorflow-cpu==2.20.0
 python-telegram-bot==20.7
-MetaTrader5==5.0.45
+MetaTrader5==5.0.5430 --no-deps
