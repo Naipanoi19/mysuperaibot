@@ -1,0 +1,7 @@
+MetaTrader5
+pandas
+numpy
+scikit-learn
+tensorflow-cpu==2.16.1
+python-telegram-bot==20.7
+requests
