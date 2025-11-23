@@ -1,7 +1,6 @@
-MetaTrader5
-pandas
-numpy
-scikit-learn
-tensorflow-cpu==2.16.1
+pandas==2.2.3
+numpy==2.1.1
+scikit-learn==1.5.2
+tensorflow-cpu==2.20.0
 python-telegram-bot==20.7
-requests
+MetaTrader5==5.0.45
